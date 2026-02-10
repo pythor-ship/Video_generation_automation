@@ -47,3 +47,7 @@ The implementation is modular and can be extended to:
 - Combine audio and video in a single pipeline
 - Swap in AI video generation APIs
 - Support different prompt formats
+  
+## Sample Output
+A sample generated video can be viewed here: https://drive.google.com/file/d/1orfobCB1gwy9HEEE3lrxH4mJd4zfQiPs/view?usp=drive_link
+
